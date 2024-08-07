@@ -5,8 +5,6 @@ metadata:
   labels:
     app: go-web-app
 spec:
-  selector:
-    app: go-web-app
   ports:
     - protocol: TCP
       port: 80
