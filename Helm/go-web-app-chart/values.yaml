@@ -2,4 +2,4 @@ image:
   repository: assua/go-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "10293132455"
+  tag: "10293145733"
