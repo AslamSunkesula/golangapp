@@ -7,7 +7,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-  - hosts: go-web-app
+  - hosts: go-web-app.local
   - http:
       paths:
       - path: /
